@@ -16,4 +16,3 @@ if __name__ == '__main__':
             s += item
             l += 1
     print(s, l)
-    
