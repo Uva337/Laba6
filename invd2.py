@@ -6,6 +6,7 @@
 
 import sys
 
+
 if __name__ == '__main__':
     a = list(map(float, input('Вещественные числа - ').split()))
 
