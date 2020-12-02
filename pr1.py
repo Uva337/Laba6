@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import sys
 
+
 if __name__ == '__main__':
 # Ввести список одной строкой.
 A = list(map(int, input().split()))
